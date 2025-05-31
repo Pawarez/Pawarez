@@ -6,7 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pawarez/Pawarez/output/snake.svg" alt="Snake animation" />
 
 ###
 
