@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">a Computer Science student passionate about Cybersecurity and Building Useful Tools.</h2>
+<h2 align="center">a Computer Science student passionate about Software Engineering, Cybersecurity, and building practical tools.</h2>
 
 ###
 
